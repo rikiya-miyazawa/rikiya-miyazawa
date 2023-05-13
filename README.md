@@ -22,46 +22,9 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a>
 </p>
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rikiya-miyazawa&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikiya-miyazawa&layout=compact&theme=tokyonight)](https://github.com/rikiya-miyazawa/) -->
-<a href="https://github.com/rikiya-miyazawa/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikiya-miyazawa&layout=compact&theme=tokyonight" height="160px" />
-</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rikiya-miyazawa&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" height="160px" />
 </a>
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rikiya-miyazawa&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" width="500px" height="160px" />
-</a>
 <a href="https://github.com/rikiya-miyazawa/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikiya-miyazawa&layout=compact&theme=tokyonight" width="500px" height="160px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikiya-miyazawa&layout=compact&theme=tokyonight" height="160px" />
 </a>
-
-<!-- <div style="display: flex; justify-content: center;">
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=rikiya-miyazawa&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" height="160px" />
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/rikiya-miyazawa/">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikiya-miyazawa&layout=compact&theme=tokyonight" height="160px" />
-    </a>
-  </div>
-</div> -->
-
-<div style="display: flex; justify-content: center;">
-  <div style="flex-basis: 50%; margin-right: 10px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=rikiya-miyazawa&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" height="160px" />
-    </a>
-  </div>
-  <div style="flex-basis: 50%; margin-left: 10px;">
-    <a href="https://github.com/rikiya-miyazawa/">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikiya-miyazawa&layout=compact&theme=tokyonight" height="160px" />
-    </a>
-  </div>
-</div>
