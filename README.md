@@ -34,10 +34,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rikiya-miyazawa&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rikiya-miyazawa&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" width="500px" height="160px" />
 </a>
 <a href="https://github.com/rikiya-miyazawa/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikiya-miyazawa&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikiya-miyazawa&layout=compact&theme=tokyonight" width="500px" height="160px" />
 </a>
 
 <!-- <div style="display: flex; justify-content: center;">
