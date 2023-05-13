@@ -23,13 +23,12 @@
 </a>
 </p>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rikiya-miyazawa&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rikiya-miyazawa&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikiya-miyazawa&layout=compact&theme=tokyonight)](https://github.com/rikiya-miyazawa/)
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rikiya-miyazawa&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" height="160px" />
 </a><a href="https://github.com/rikiya-miyazawa/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikiya-miyazawa&layout=compact&theme=tokyonight" height="160px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikiya-miyazawa&layout=compact&theme=tokyonight" width= "200px" height="160px" />
 </a>
+ -->
 
-<!-- 
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikiya-miyazawa&layout=compact&theme=tokyonight)](https://github.com/rikiya-miyazawa/) -->
